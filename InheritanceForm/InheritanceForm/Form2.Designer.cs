@@ -57,6 +57,8 @@ namespace InheritanceForm
             this.SearchTxt.Size = new System.Drawing.Size(168, 20);
             this.SearchTxt.TabIndex = 9;
             this.SearchTxt.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.SearchTxt.KeyDown += new System.Windows.Forms.KeyEventHandler(this.SearchTxt_KeyDown);
+            this.SearchTxt.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SearchTxt_KeyPress);
             // 
             // button2
             // 
@@ -90,11 +92,18 @@ namespace InheritanceForm
             // 
             // comboBox1
             // 
+            this.comboBox1.AllowDrop = true;
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Aggregate",
+            "Course",
+            "Section"});
             this.comboBox1.Location = new System.Drawing.Point(110, 44);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.Size = new System.Drawing.Size(168, 21);
             this.comboBox1.TabIndex = 12;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // dataGridView1
             // 

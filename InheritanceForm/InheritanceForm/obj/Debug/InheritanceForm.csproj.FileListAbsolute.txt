@@ -20,3 +20,14 @@ C:\Users\jhunm\Downloads\InheritanceForm\InheritanceForm\obj\Debug\InheritanceFo
 C:\Users\jhunm\Downloads\InheritanceForm\InheritanceForm\bin\Debug\InheritanceForm.exe.config
 C:\Users\jhunm\Downloads\InheritanceForm\InheritanceForm\bin\Debug\InheritanceForm.exe
 C:\Users\jhunm\Downloads\InheritanceForm\InheritanceForm\bin\Debug\InheritanceForm.pdb
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\bin\Debug\InheritanceForm.exe.config
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\bin\Debug\InheritanceForm.exe
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\bin\Debug\InheritanceForm.pdb
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.Form1.resources
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.Form2.resources
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.Properties.Resources.resources
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.csproj.GenerateResource.cache
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.exe
+C:\Users\STUDENT\Downloads\Paninda\OOP_Winforms_KristofferRyan_Caoagdan-main\InheritanceForm 1\InheritanceForm_Baccay, Caoagdan, Zozobrado\InheritanceForm\obj\Debug\InheritanceForm.pdb
